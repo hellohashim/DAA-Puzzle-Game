@@ -57,7 +57,7 @@ Designed for learning and simulation
 
 1. Clone the repository:
 bash
-git clone https://github.com/your-username/heads-up-puzzle.git
+git clone https://github.com:hellohashim/DAA-Puzzle-Game.git
 cd heads-up-puzzle
 
 2. Open index.html in your browser.
